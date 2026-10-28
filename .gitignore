@@ -1,0 +1,10 @@
+# Local environment
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+.docker/
